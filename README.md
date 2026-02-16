@@ -25,7 +25,8 @@ Next.js app integrating WorkOS AuthKit and the Users Management widget with serv
 
 
 # Deployed App Notes
-- URL: https://se-interview-nextjs-app-rho.vercel.app/
+- Vercel App URL: https://se-interview-nextjs-app-rho.vercel.app/
+- Forked git repo URL: https://github.com/AviSchatz/se-interview-nextjs-app/tree/main
 - To view the Users Management widget page, add users after this URL (https://se-interview-nextjs-app-rho.vercel.app/users)
 - sign in will be AuthKit login with the email address: takehomeworkos@gmail.com
     - I will go into the email inbox and proceed with the auth flow
